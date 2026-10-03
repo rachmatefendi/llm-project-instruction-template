@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Project Instruction Template"
+message: "If you use or adapt this template in published work, please cite this repository."
+type: software
+authors:
+  - family-names: "Efendi"
+    given-names: "Rachmat"
+version: "1.0"
+date-released: 2026-10-03
+license: CC-BY-4.0
+abstract: "A configurable Markdown template for project-level AI instructions with explicit evidence boundaries, baseline handling, authority separation, review discipline, and completion criteria."
