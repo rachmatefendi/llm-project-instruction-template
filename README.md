@@ -125,4 +125,4 @@ Copyright © 2026 Rachmat Efendi.
 - Templates, documentation, and examples: **CC BY 4.0**.
 - Scripts/software: **MIT**.
 
-See [`LICENSE.md`](LICENSE.md) for scope and full texts under [`LICENSES/`](LICENSES/).
+See [`LICENSING.md`](LICENSING.md) for scope and full texts under [`LICENSES/`](LICENSES/).
